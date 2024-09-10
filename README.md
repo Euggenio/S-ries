@@ -1,3 +1,4 @@
+![serie2](https://github.com/user-attachments/assets/c7cabaaa-4786-4d30-82d5-9f973b4a71ea)
 https://s-ries.vercel.app/
 
 ###  **DevFlix: Sua Netflix Pessoal (Mas Online!)** 
