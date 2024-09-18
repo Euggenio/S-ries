@@ -37,13 +37,9 @@ Se você quiser contribuir para este projeto, fique à vontade! Sugestões e mel
 * **Criar um sistema de favoritos:** Para que você possa salvar suas séries favoritas e acessá-las rapidamente.
 * **Adicionar trailers:** Seria legal poder assistir a trailers das séries diretamente da página.
 
-**Importante:**
-
-Este projeto é apenas um exemplo e pode ser facilmente expandido e personalizado. Use sua criatividade e divirta-se!
 
 
-**Licença:**
 
-Este projeto está sob a licença MIT. Sinta-se à vontade para usar, modificar e distribuir o código.
+
 
 
